@@ -81,3 +81,27 @@
   text-decoration: none;
   border-radius: 0 0 1rem 1rem;
 }
+
+@media screen and (min-width: 1024px) {
+  .carousel__title {
+    font-size: 1.8rem;
+  }
+
+  .swiper-pagination {
+    margin: 2rem 0 3rem;
+  }
+
+  .swiper {
+    width: 70%;
+  }
+
+  .swiper-button-prev, .swiper-button-next {
+    display: block;
+    top: 60%;
+  }
+
+  .card {
+    width: 50%;
+    margin: 2rem auto;
+  }
+}

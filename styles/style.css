@@ -17,6 +17,9 @@
   --font: 'Poppins', sans-serif;
   --font-logo: 'Josefin Sans', sans-serif;
   --blue: #002F52;
+
+  --gray-dark: #474646;
+  --gray-light: #858585;
 }
 
 body {

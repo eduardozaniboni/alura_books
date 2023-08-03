@@ -32,3 +32,17 @@
   color: var(--white);
   background: url('../public/Search.svg') no-repeat 0.5rem;
 }
+
+@media screen and (min-width: 1024px) {
+  .banner__title {
+    font-size: 2rem;
+  }
+
+  .banner__search {
+    width: 60%;
+  }
+
+  .banner__search::placeholder {
+    background-position: 8rem;
+  }
+}

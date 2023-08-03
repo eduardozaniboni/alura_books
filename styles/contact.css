@@ -37,3 +37,24 @@
   background-repeat: no-repeat;
   padding-left: 2rem;
 }
+
+@media screen and (min-width: 1024px) {
+  .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact__title {
+    font-size: 1.5rem;
+  }
+
+  .contact__description {
+    margin-right: 3rem;
+    width: 30%;
+  }
+
+  .contact__email {
+    width: 30%;
+  }
+}

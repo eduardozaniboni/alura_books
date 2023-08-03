@@ -29,3 +29,13 @@
   font-size: 0.8rem;
   border-radius: 0.5rem;
 }
+
+@media screen and (min-width: 1024px) {
+  .topics__title {
+    font-size: 1.5rem
+  }
+
+  .topics__link {
+    font-size: 1.5rem;
+  }
+}
