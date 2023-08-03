@@ -8,3 +8,5 @@
 * Aprenda a utilizar media queries na construção de layouts responsivos
 * Realize o deploy de um site através do Github Pages
 * Compartilhe seu aprendizado nas redes sociais
+
+Link: https://eduardozaniboni.github.io/alura_books/
