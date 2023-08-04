@@ -44,3 +44,14 @@ hr {
     font-size: 0.9rem;
   }
 }
+
+@media screen and (min-width: 1728px) {
+  .footer {
+    margin: 2rem 8rem;
+  }
+
+  .footer__list {
+    border-left: 1px var(--gray-light) solid;
+    padding: 0 2rem;
+  }
+}

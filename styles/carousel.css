@@ -105,3 +105,36 @@
     margin: 2rem auto;
   }
 }
+
+@media screen and (min-width: 1728px) {
+  .carousel__container {
+    display: flex;
+    margin: 0 20vw 3rem;
+    align-items: center;
+    gap: 3rem;
+  }
+
+  .card {
+    width: 60%;
+  }
+
+  .swiper-pagination {
+    margin: 1rem 0;
+  }
+
+  .swiper {
+    width: 50%;
+  }
+
+  .description {
+    margin: 1rem;
+  }
+
+  .description__title {
+    font-size: 2rem;
+  }
+
+  .description__text {
+    font-size: 1rem;
+  }
+}
